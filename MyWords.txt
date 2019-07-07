@@ -99,6 +99,7 @@ forms of lift
 fiction
 fur
 feather
+force
 
 glove
 grey
@@ -185,6 +186,8 @@ pharmacist
 poisonous
 passenger
 polar
+predict
+
 
 radius
 regular
