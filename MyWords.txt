@@ -23,6 +23,7 @@ agriculture
 atmosphere
 anniversary
 appliance
+
 bench
 brown
 brain
@@ -38,6 +39,7 @@ bend
 bored
 birthplace
 backbone
+
 carrot
 corn
 corner
@@ -60,6 +62,7 @@ court
 complaint
 creek
 convert
+
 dessert
 doorway
 dentist
@@ -76,6 +79,7 @@ directordeposit
 diameter
 disease
 divide sth into
+
 entrance
 excellent
 equator
@@ -85,6 +89,7 @@ ecosystem
 entire
 eruption
 extinct
+
 fairly
 frog
 freezing point
@@ -94,6 +99,7 @@ forms of lift
 fiction
 fur
 feather
+
 glove
 grey
 get dressed
@@ -103,6 +109,7 @@ grapefruit
 greasy
 gasoline
 gradening
+
 hockey
 hemisphere
 humid
@@ -110,6 +117,7 @@ hiking
 hydrogen
 helicopter
 household
+
 intersect
 injured
 instead
@@ -121,12 +129,16 @@ individual
 icecap
 insect
 irreversible
+
 journal
+
 knock sb out
+
 lorry
 liquid
 literature
 lizard
+
 mechanic
 mile
 medicine
@@ -137,6 +149,7 @@ mammal
 migrate
 modern
 mosquito
+
 nap
 nature
 notice
@@ -145,9 +158,11 @@ novel
 nightmare
 nitrogen
 nail
+
 oppsite
 outlet
 overcast
+
 practice
 pants
 potato
@@ -160,7 +175,8 @@ patient
 perpendicular
 planet
 pharmacy
-plenty ofpoem
+plenty of
+poem
 presentation
 plug
 pollute
@@ -169,6 +185,7 @@ pharmacist
 poisonous
 passenger
 polar
+
 radius
 regular
 rotate
@@ -176,11 +193,13 @@ ring
 receptionist
 recharge
 reduce
+rescue
 representative
 relocate
 reptile
 ruin
 refrigerator
+
 scarf
 steal
 scholarship
@@ -203,6 +222,7 @@ substance
 scale
 screw
 stove
+
 tenth
 track
 teller
@@ -216,14 +236,17 @@ tourist
 thick
 telescope
 threat
+
 upset
 unpleasant
+
 vomit
 vapor
 vacuum
 vitamin
 variety
 volcanic
+
 withdraw
 wheelchair
 warm-blooded
